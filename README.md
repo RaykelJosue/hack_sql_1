@@ -1,16 +1,6 @@
 # SOCIAL OPLESK
 ### 🏴‍☠️ HACKS 
 
-<br/>
-
-📚 tutoriales de python [tutorial 1](https://www.w3schools.com/postgresql/index.php) | [tutorial 2](https://www.tutorialesprogramacionya.com/postgresqlya/)
----
-
-```diff
-- NOTA HACER LAS PRÁCTICAS MEDIANTE coderpad.io / onecompiler.com / sqliteonline.com
-```
-
-<br/>
 
 |Hacks | Details | 
 |----------|---------|
